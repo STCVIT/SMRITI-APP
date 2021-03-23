@@ -1,4 +1,5 @@
-# Smriti<a href="https://ibb.co/6yK5wnV"><img src="https://i.ibb.co/mRn7TD1/Frame-9.png" alt="Frame-9" border="0" width = "2000"></a>
+# Smriti
+<a href="https://ibb.co/6yK5wnV"><img src="https://i.ibb.co/mRn7TD1/Frame-9.png" alt="Frame-9" border="0" width = "2000"></a>
 ### Table of Contents
 * About the Product
 	* Built With
@@ -65,3 +66,7 @@ ______
 ### Creators
 
 <img src="creators.png" alt="A4-5" border="0" width="2500">
+
+<p align="center">
+	Made with :heart: by <a href="https://stcvit.in/">STC-VIT</a>
+</p>
